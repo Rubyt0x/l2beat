@@ -1,0 +1,5 @@
+{
+  "term": "Predicates",
+  "definition": "Predicates are stateless programs that evaluate to a Boolean value (true or false). They represent ownership or access rights to resources without requiring persistent state storage on the blockchain, helping to reduce state bloat and enhance scalability in decentralized systems.",
+  "isSpicy": false
+}
